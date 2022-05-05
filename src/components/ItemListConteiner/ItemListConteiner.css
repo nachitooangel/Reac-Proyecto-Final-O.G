@@ -1,0 +1,29 @@
+.itemListConteiner {
+    height: 100%;
+    background-color: bisque;
+    margin: 0px 1%;
+}
+.titulo {
+    size: 120px;
+    background-color:aliceblue;
+    margin: 5%;
+    display: flex;
+    justify-content: center;
+}
+.listConteiner {
+    height: 680px;
+    margin: 0px 2%;
+    background-color: beige;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+.itemConteiner {
+    width: 90%;
+    height: 300px;
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+

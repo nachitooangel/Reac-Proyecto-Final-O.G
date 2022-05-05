@@ -1,0 +1,28 @@
+.nav {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+.nav a {
+    padding: 15;
+    border: 2px;
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+}
+
+.nav a:hover {
+    color: yellow;
+}
+
+
+.nav h1 {
+    size: 15px;
+    color: yellow;
+    margin: 10px;
+}
